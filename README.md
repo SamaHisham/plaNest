@@ -25,6 +25,8 @@ Displays user information, with options to update personal details and change th
 
 <h3>● Sidebar Navigation:</h3>
 Includes shortcuts to the home, profile, projects, pricing/upgrading plans, and theme switching (light/dark mode).
+<hr>
+<hr>
 
 #Technologies Used:
 <h3>● Frontend:</h3> HTML, CSS, JavaScript
