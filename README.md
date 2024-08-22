@@ -3,7 +3,7 @@ plaNest is a comprehensive project management platform that allows users to crea
 
 <h1>Features</h1>
 
-<h3>Landing Page:</h3>
+⚫<h3>Landing Page:</h3>
 Provides a brief overview of the plaNest platform and its benefits.
 
 <h3>User Authentication:</h3>
